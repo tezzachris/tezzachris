@@ -1,9 +1,8 @@
-### Hi there 👋
-
+#### Hi there 👋 I'm Chris
+Welcome to my Github profile. I use Github for sharing most of my projects:
+- 🔭 I’m currently working on non-linear time series models for option pricing
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
