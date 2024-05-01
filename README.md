@@ -4,7 +4,7 @@ Welcome to my Github profile. I use Github for most of my projects:
 - ☘️ Commodities stochastic factor models for pricing futures
 - 🧠 Time series methodology for calcium imaging data
   
-Feel free to contact me at christian.tezza@unibo.it
+You can contact me at: christian.tezza@unibo.it
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
