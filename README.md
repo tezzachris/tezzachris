@@ -1,6 +1,9 @@
 #### Hi there 👋 I'm Chris
-Welcome to my Github profile. I use Github for sharing most of my projects:
-- 🔭 I’m currently working on non-linear time series models for option pricing
+Welcome to my Github profile. I use Github for most of my projects:
+- 🔨 I’m currently working on non-linear time series models for option pricing
+- Commodities factor models
+- Data Research Camp: Calcium imaging Time series approach
+Feel free to contact me at christian.tezza@unibo.it
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
