@@ -1,7 +1,7 @@
 #### Hi there 👋 I'm Chris
 Welcome to my Github profile. I use Github for most of my projects:
 - 📈 Non-linear time series models for option pricing
-- ☘️ Commodities stochastic factor models for pricing futures
+- ☘️ Commodities stochastic factor models for futures pricing
 - 🧠 Time series methodology for calcium imaging data
   
 You can contact me at: christian.tezza@unibo.it
