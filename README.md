@@ -1,8 +1,9 @@
-#### Hi there 👋 I'm Chris
+#### Ciao 👋 I'm Chris
 Welcome to my Github profile. I use Github for most of my projects:
-- 📈 Non-linear time series models for option pricing
-- ☘️ Commodities stochastic factor models for futures pricing
-- 🧠 Time series methodology for calcium imaging data
+- 📈 GARCH models [manuscript1] [manuscript2]
+- Prediction of equity trading volumes
+- ☘️ Model commodity prices via multi factor models
+- 🧠 Identify neuronal activations using calcium imaging data
 
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
