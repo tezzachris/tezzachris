@@ -1,9 +1,9 @@
 #### Ciao 👋 I'm Chris
 Welcome to my Github profile. I use Github for most of my projects:
-- 📈 GARCH models [manuscript1] [manuscript2]
-- Prediction of equity trading volumes
-- ☘️ Model commodity prices via multi factor models
-- 🧠 Identify neuronal activations using calcium imaging data
+- 📈 GARCH models 
+- 📉 Trading volumes forecasting
+- ☘️ Factor models for commodity prices 
+- 🧠 Neuronal spike train modeling 
 
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
