@@ -2,7 +2,7 @@
 Welcome to my Github profile. I use Github for most of my recent projects:
 - 📈 GARCH models 
 - 📉 Trading volumes forecasting
-- ☘️ Factor models for commodity prices 
+- ☘️ Stochastic models for commodity prices 
 - 🧠 Neuronal spike train modeling 
 
 <!--
