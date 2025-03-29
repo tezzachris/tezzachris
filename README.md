@@ -1,8 +1,3 @@
-#### Ciao 👋 I'm Chris
-Welcome to my Github profile. I use Github for most of my recent projects:
-- 📈 Option pricing GARCH models  
-- ☘️ Commodity prices 
-- 🧠 Neuronal spike train 
 
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
