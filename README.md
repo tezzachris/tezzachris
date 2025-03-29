@@ -1,9 +1,8 @@
 #### Ciao 👋 I'm Chris
 Welcome to my Github profile. I use Github for most of my recent projects:
-- 📈 GARCH models 
-- 📉 Trading volumes forecasting
-- ☘️ Stochastic models for commodity prices 
-- 🧠 Neuronal spike train modeling 
+- 📈 Option pricing GARCH models  
+- ☘️ Commodity prices 
+- 🧠 Neuronal spike train 
 
 <!--
 **tezzachris/tezzachris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
